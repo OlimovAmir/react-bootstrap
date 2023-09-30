@@ -1,5 +1,5 @@
 import React from 'react'
-import { Col, Container, Nav, NavItem, Row, TabContainer, TabContent, TabPane } from 'react-bootstrap'
+import { Col, Nav, NavItem, Row, TabContainer, TabContent, TabPane } from 'react-bootstrap'
 
 import fotoDisigner from '../images/chip_shema_protsessor_140251_1280x720.jpg';
 import fotoDisigner2 from '../images/2.jpg';
