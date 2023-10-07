@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/OlimovAmir.github.io/react-bootstrap/static/css/main.c77e1f91.css",
+    "main.js": "/OlimovAmir.github.io/react-bootstrap/static/js/main.b5b95196.js",
+    "static/js/787.a521b789.chunk.js": "/OlimovAmir.github.io/react-bootstrap/static/js/787.a521b789.chunk.js",
+    "static/media/1.jpg": "/OlimovAmir.github.io/react-bootstrap/static/media/1.d8488097e62210add2b3.jpg",
+    "static/media/2.jpg": "/OlimovAmir.github.io/react-bootstrap/static/media/2.92b1befd43162aa0a567.jpg",
+    "static/media/3.jpg": "/OlimovAmir.github.io/react-bootstrap/static/media/3.2f03f7fd5cea14b23dcd.jpg",
+    "static/media/chip_shema_protsessor_140251_1280x720.jpg": "/OlimovAmir.github.io/react-bootstrap/static/media/chip_shema_protsessor_140251_1280x720.728d87c865e857743c9f.jpg",
+    "static/media/4.jpg": "/OlimovAmir.github.io/react-bootstrap/static/media/4.8c5ef44bf9b2056b08d1.jpg",
+    "static/media/5.jpg": "/OlimovAmir.github.io/react-bootstrap/static/media/5.a095ff03e972097fa204.jpg",
+    "static/media/logo.jpg": "/OlimovAmir.github.io/react-bootstrap/static/media/logo.471fb387830663099236.jpg",
+    "index.html": "/OlimovAmir.github.io/react-bootstrap/index.html",
+    "main.c77e1f91.css.map": "/OlimovAmir.github.io/react-bootstrap/static/css/main.c77e1f91.css.map",
+    "main.b5b95196.js.map": "/OlimovAmir.github.io/react-bootstrap/static/js/main.b5b95196.js.map",
+    "787.a521b789.chunk.js.map": "/OlimovAmir.github.io/react-bootstrap/static/js/787.a521b789.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c77e1f91.css",
+    "static/js/main.b5b95196.js"
+  ]
+}
